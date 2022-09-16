@@ -14,6 +14,9 @@ Performing CRUD operation on PostgreSQL with NodeJS and Express
 JSON BODY
 
 { 
+
 "name": "XYZ", 
+
 "email": "xyz@dot.com" 
+
 }
